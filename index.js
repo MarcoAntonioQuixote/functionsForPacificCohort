@@ -1,7 +1,6 @@
 let pokemon = getPokeData();
-
-
-
+let instructor = "Mark Anthony";
+let cohort = "Pacific May"
 
 
 
